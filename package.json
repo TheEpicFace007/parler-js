@@ -1,0 +1,22 @@
+{
+  "name": "parler-js",
+  "version": "1.0.0",
+  "description": "Typescript wrapper to parler api",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "parler",
+    "freespeech",
+    "parler.com"
+  ],
+  "author": "vinidalvino",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node-fetch": "^2.5.8",
+    "node-fetch": "^2.6.1"
+  }
+}
